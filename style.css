@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2014/07/06/13/55/calculator-385506_960_720.jpg");
+}
+
+.container{
+    text-align: center;
+    margin-top: 143px;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 34px;
+    border: 5px solid aqua;
+    border-radius: 21px;
+}
+button{
+    font-size: 34px;
+    background-color: aqua;
+    width: 101px;
+    height: 48px;
+    border-radius: 20px;
+}
+.calculator{
+   background-color: pink;
+   padding:23px ;
+   border-radius: 15px;
+    display: inline-block;
+}
